@@ -40,5 +40,5 @@ Basically reerts everything (deletes wp, db, and leave the core scripts).
 
 ## References
 
-SQLite integration (db.sql) is from https://github.com/aaemnnosttv/wp-sqlite-db
+SQLite integration (db.sql) is from https://github.com/aaemnnosttv/wp-sqlite-db <br>
 Portable Wordpress with SQLite instead of MySQL https://dev.to/mfyz/portable-wordpress-with-sqlite-instead-of-mysql-4lj1
